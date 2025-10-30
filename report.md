@@ -19,8 +19,6 @@ Understanding the desktop environment, terminal, and file system structure is es
 4. Run the command `pwd` to check the current directory.  
 5. Observe the directory structure under `/home/username/`.
 
-**Output:**  
-(Screenshot showing terminal commands and output.)
 
 **Result:**  
 Successfully explored the Ubuntu interface and learned basic terminal navigation.
