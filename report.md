@@ -28,7 +28,8 @@ Successfully explored the Ubuntu interface and learned basic terminal navigation
 **Conclusion:**  
 Gained basic understanding of the Ubuntu environment and its command-line interface# Linux Lab Report# Linux Lab Report
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- Experiment 2: Basic Linux Commands
+ EXPERIMENT 2: BASIC LINUX COMMANDS
+
 
 Aim:
 To study and execute basic Linux commands for file and directory management.
