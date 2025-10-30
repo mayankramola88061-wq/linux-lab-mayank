@@ -55,9 +55,6 @@ Procedure:
 	9.	Use rm moved.txt to delete the file.
 	10.	Use cd .. to return to the parent directory and rmdir test to remove the empty directory.
 
-Output:
-(Screenshot showing terminal execution of commands and output.)
-
 Result:
 Successfully executed and verified the output of basic Linux commands for file and directory handling.
 Conclusion:
