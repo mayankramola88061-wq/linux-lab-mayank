@@ -137,4 +137,16 @@ In Linux, every file and directory has three types of permissions — read (r), 
 	•	Others
 
 The chmod, chown, and chgrp commands are used to modify file permissions and ownership.
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/10192a37-4004-4731-b829-fa582c1163e5" />
+------------------------------------------------------------------------------------------------------------------------------------------------
+experiment 6 : File Viewing and Concatenation Commands
 
+Aim:
+To use cat, more, and less commands to view, create, and manage text files in Linux.
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/afe063ca-bbed-4caf-b80f-bac1d39fb80b" />
+<img width="1470" height="956" alt="Screenshot 2025-10-31 at 11 30 23 AM" src="https://github.com/user-attachments/assets/889c83c7-ed67-4e84-b2b3-699c63639dba" />
+================================================================================================================================================
+Experiment 7 — Searching & Filtering Text (step-by-step)
+
+Aim: Learn to locate files and filter text using find, grep, pipelines, sort, uniq, awk and sed.
