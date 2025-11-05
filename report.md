@@ -153,3 +153,33 @@ Experiment 7 — Searching & Filtering Text (step-by-step)
 Aim: Learn to locate files and filter text using find, grep, pipelines, sort, uniq, awk and sed.
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7518139d-e605-47ee-8404-ebe58a00d551" />
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/4bacc7fe-d2fd-4b31-a1c0-d8bed8cfdacb" />
+Experiment 8: Process Management and Job Control
+
+Aim:
+To study and perform process management and job control commands in Linux.
+Commands Used:
+1. pstree | head
+2. ps aux --sort=-%cpu | head -n 12 > exp8_ps_top12.txt
+3. cat exp8_ps_top12.txt
+4. sleep 300 &
+5. jobs
+6. fg %1
+7. nohup bash -c 'while true; do date >> /tmp/exp8_date.log; sleep 60; done' > /tmp/exp8_nohup.out
+2>&1 &
+8. ps aux | grep nohup (optional)
+9. cat /tmp/exp8_date.log (optional)
+Description:
+1. The 'pstree' command displays running processes in a tree format, showing parent-child
+relationships.
+2. The 'ps aux' command lists all active processes with detailed information. Sorting by CPU usage
+helps identify high CPU consumers.
+3. Redirecting output to a text file saves the process list for later analysis.
+4. The 'sleep 300 &' command starts a background job that sleeps for 5 minutes.
+5. The 'jobs' command lists all background jobs in the current terminal session.
+6. The 'fg %1' command brings a background job to the foreground.
+7. The 'nohup' command allows a process to continue running even after logging out.
+Conclusion:
+In this experiment, we successfully explored Linux process management and job control commands.
+We learned to view, manage, and control processes in both foreground and background modes, and
+to keep processes running after logout using the nohup command.
+<img width="1470" height="956" alt="Screenshot 2025-11-05 at 11 14 18 PM" src="https://github.com/user-attachments/assets/7d262029-cf25-4929-828a-10532af99b36" />
