@@ -151,3 +151,5 @@ To use cat, more, and less commands to view, create, and manage text files in Li
 Experiment 7 — Searching & Filtering Text (step-by-step)
 
 Aim: Learn to locate files and filter text using find, grep, pipelines, sort, uniq, awk and sed.
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7518139d-e605-47ee-8404-ebe58a00d551" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/4bacc7fe-d2fd-4b31-a1c0-d8bed8cfdacb" />
