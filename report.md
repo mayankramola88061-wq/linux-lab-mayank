@@ -183,4 +183,5 @@ In this experiment, we successfully explored Linux process management and job co
 We learned to view, manage, and control processes in both foreground and background modes, and
 to keep processes running after logout using the nohup command.
 <img width="1470" height="956" alt="Screenshot 2025-11-05 at 11 14 18 PM" src="https://github.com/user-attachments/assets/7d262029-cf25-4929-828a-10532af99b36" />
-![Uploading Screenshot 2025-11-05 at 11.15.25 PM.png…]()
+<img width="1470" height="956" alt="Screenshot 2025-11-05 at 11 19 32 PM" src="https://github.com/user-attachments/assets/1d7ee0d6-2c51-4c95-8dfd-df231f3073cb" />
+
