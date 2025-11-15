@@ -51,5 +51,23 @@ Experiment 5 — Text Processing Commands
  Experiment 6 — Process Management
 
  <img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 59 55 AM" src="https://github.com/user-attachments/assets/98a575c3-2741-46cc-9403-42aec3912ae3" />
- <img width="1470" height="956" alt="Screenshot 2025-11-15 at 12 25 07 PM" src="https://github.com/user-attachments/assets/d2a3ced1-0de1-4383-aa23-25b88aeb44ee" />
+ <img width="1470" height="956" alt="Screenshot 2025-11-15 at 12 30 49 PM" src="https://github.com/user-attachments/assets/6fbea2c7-b7e8-40c5-8ab0-8f55e5cd1f8d" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 12 31 33 PM" src="https://github.com/user-attachments/assets/77cecd00-578e-48ec-8600-e7500af52ea5" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 12 31 49 PM" src="https://github.com/user-attachments/assets/0fbe8dff-04a4-4bab-937b-78c4351a36b4" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 12 34 19 PM" src="https://github.com/user-attachments/assets/4d90bf08-d0a5-4b52-ae49-dafc7b725e4a" />
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Experiment 7 — Package Management 
+
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 12 36 44 PM" src="https://github.com/user-attachments/assets/3fefdbce-ed92-4d36-8444-053796ecbd60" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8749aee2-8feb-4d66-b815-4063a77d577b" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/fc28ff3a-4ab2-4b31-8d73-60cfdc80e2d8" />
+
+Experiment 8 — Shell Scripting (Bash Script)
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/84c39ffa-eeb3-4252-8423-f96d6865c7a8" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e481b033-e183-4b45-8058-1bd0fd40c891" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b1a83183-718b-4984-ba22-47b0865f9097" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b05c6083-aeff-4198-a554-d78f70f18511" />
+
 
