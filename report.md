@@ -3,185 +3,53 @@
 ## Experiment 1: Introduction to Ubuntu Operating System
 
 **Aim:**  
-To understand the basic structure and components of the Ubuntu Linux operating system.
+and file system navigation and file manipulation.
 
-**Apparatus Required:**  
-Ubuntu Operating System installed on a computer or virtual machine.
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 02 46 AM" src="https://github.com/user-attachments/assets/afdb3455-02a4-4bd4-92e1-696c6630daef" />
 
-**Theory:**  
-Ubuntu is a popular Linux-based operating system. It provides a terminal interface that allows users to interact with the system using commands.  
-Understanding the desktop environment, terminal, and file system structure is essential before learning advanced Linux concepts.
-
-**Procedure:**
-1. Start the Ubuntu system.  
-2. Explore the desktop and launcher icons.  
-3. Open the terminal using **Ctrl + Alt + T**.  
-4. Run the command `pwd` to check the current directory.  
-5. Observe the directory structure under `/home/username/`.
-
-
-**Result:**  
-Successfully explored the Ubuntu interface and learned basic terminal navigation.
-
-**Conclusion:**  
-Gained basic understanding of the Ubuntu environment and its command-line interface# Linux Lab Report# Linux Lab Report
-<img width="1470" height="956" alt="Screenshot 2025-10-07 at 3 15 50 PM" src="https://github.com/user-attachments/assets/a84de0a8-69fd-42ce-bdbd-de2a64806a2e" />
-
-<img width="1470" height="956" alt="Screenshot 2025-10-07 at 3 24 13 PM" src="https://github.com/user-attachments/assets/b53aafee-8c10-45e0-b0cf-36f1469f50c6" />
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a62cc353-4fa4-4d15-ad4a-846aa22431cb" />
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
  EXPERIMENT 2: BASIC LINUX COMMANDS
 
+aim : 
 
-Aim:
-To study and execute basic Linux commands for file and directory management.
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 22 29 AM" src="https://github.com/user-attachments/assets/19050c7c-5405-4829-b19e-37936828c579" />
 
-Apparatus Required:
-Ubuntu Operating System
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 23 16 AM" src="https://github.com/user-attachments/assets/34a972b0-acad-4074-b400-e7f2dbbcdba5" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 24 34 AM" src="https://github.com/user-attachments/assets/a87fa571-cd39-47d7-97df-a020ceb4a5e7" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 24 59 AM" src="https://github.com/user-attachments/assets/35b8e866-baf0-4f9d-9d81-bf5d3a1356c6" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 25 32 AM" src="https://github.com/user-attachments/assets/95321e5d-c69e-4dde-8507-10ce40f63118" />
 
-Theory:
-Linux commands are used to interact with the system and perform operations such as listing files, creating directories, copying, moving, and removing files.
-Understanding these commands helps in efficiently managing files and navigating the Linux filesystem.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Experiment 3 — File Permissions
 
-Procedure:
-	1.	Open the Terminal using Ctrl + Alt + T.
-	2.	Use pwd to display the present working directory.
-	3.	Use ls to list the files and directories.
-	4.	Use mkdir test to create a directory named test.
-	5.	Use cd test to move into the test directory.
-	6.	Use touch sample.txt to create an empty file.
-	7.	Use cp sample.txt copy.txt to copy the file.
-	8.	Use mv copy.txt moved.txt to rename the copied file.
-	9.	Use rm moved.txt to delete the file.
-	10.	Use cd .. to return to the parent directory and rmdir test to remove the empty directory.
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 27 46 AM" src="https://github.com/user-attachments/assets/86af9085-5bd2-42ba-b124-c1dbf07d72e3" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 28 31 AM" src="https://github.com/user-attachments/assets/3efc3b3c-b349-417f-a253-d193077199e0" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 29 24 AM" src="https://github.com/user-attachments/assets/817c2c5b-3957-47a2-a0ec-1be58c55de1a" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 30 12 AM" src="https://github.com/user-attachments/assets/40141ca2-5b0a-441c-9cc4-5f035c01ebec" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 31 34 AM" src="https://github.com/user-attachments/assets/398a61d1-eecb-41df-9917-0c4d167a4075" />
 
-Result:
-Successfully executed and verified the output of basic Linux commands for file and directory handling.
-Conclusion:
-Learned to manage files and directories using fundamental Linux commands.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/15397d37-f623-4920-8fa7-ae09cb172678" />
+--------------------------------=============================================================================================================
+Experiment 4 — Searching Files in Ubuntu
 
-⸻
+This experiment teaches:
+	•	find
+	•	locate
+	•	grep -R
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 45 09 AM" src="https://github.com/user-attachments/assets/bbdda3c3-5ec9-4793-b541-c837272b0d0e" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 45 43 AM" src="https://github.com/user-attachments/assets/f0ba912b-5c97-4a35-aa7f-e0c8e35cb021" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 50 32 AM" src="https://github.com/user-attachments/assets/80da0dec-9d4c-401b-a277-4ea07322e5d4" />
 
-Experiment 3: File Permissions in Linux
+Experiment 5 — Text Processing Commands
 
-Aim:
-To understand and modify file permissions using chmod, chown, and groups commands in Linux.
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 53 28 AM" src="https://github.com/user-attachments/assets/19b798b1-512d-4d42-bebe-0d9781a1f702" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 54 37 AM" src="https://github.com/user-attachments/assets/a63a3c2f-450d-4bea-b249-ceb7c7cde6cb" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 56 39 AM" src="https://github.com/user-attachments/assets/0a45cd77-1fa2-4fcb-88ec-eb870a1df5f8" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 57 16 AM" src="https://github.com/user-attachments/assets/5ea93efd-a6c6-4781-b629-6e412f9114f6" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 57 39 AM" src="https://github.com/user-attachments/assets/908287e4-c7d9-429f-b56a-a52251fbc46d" />
+<img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 58 09 AM" src="https://github.com/user-attachments/assets/838c4e87-332f-458e-ab0b-0b678493e099" />
+---------------------------------------------------------------------------------------------------------------------------------------------
+ Experiment 6 — Process Management
 
-Apparatus Required:
-Ubuntu Linux operating system.
-
-Theory:
-In Linux, each file and directory has permissions that control who can read, write, or execute them.
-These permissions are represented by three categories:
-	•	User (u): Owner of the file
-	•	Group (g): Users in the same group
-	•	Others (o): Everyone else
-
-Permissions can be changed using the chmod command, and ownership can be viewed or changed using chown.
-
-Procedure:
-	1.	Open the terminal using Ctrl + Alt + T.
-	2.	Create a directory using mkdir perm_test.
-	3.	Move into it using cd perm_test.
-	4.	Create a file using touch demo.txt.
-	5.	Check permissions using ls -l demo.txt.
-	6.	Change permissions using chmod 600 demo.txt.
-	7.	Add execute permission to the user using chmod u+x demo.txt.
-	8.	Verify new permissions with ls -l demo.txt.
-	9.	View group information using groups.
-	10.	Return to the parent directory using cd .. and delete the directory using rm -r perm_test.
-
-Output:
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/d9c8d2c5-e58f-4838-881d-0b267b5b7874" />
-
-Result:
-Successfully learned how to set, view, and modify file permissions and ownership in Linux.
-
-Conclusion:
-Gained understanding of Linux file permission system and how to manage access control using chmod and related commands.
-
-⸻
-Experiment 4: User and Group Management in Linux
-
-Aim:
-To learn how to create, manage, and delete users and groups in the Linux operating system.
-
-Apparatus Required:
-Ubuntu Linux operating system.
-
-Theory:
-Linux is a multi-user system, meaning multiple users can access it simultaneously.
-User and group management is essential for maintaining security and organization.
-	•	useradd / adduser — Create a new user.
-	•	passwd — Set or change the password for a user.
-	•	groupadd — Create a new group.
-	•	usermod — Modify a user’s information.
-	•	deluser / userdel — Delete a user.
-	•	groups / id — Display user and group information.
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/bf66125c-0476-4616-ace7-7ba4b6c738bb" />
----------------------------------------------------------------------------------------------------------------------
-Experiment 5: File Ownership and Permissions in Linux
-
-Aim:
-To study and modify file ownership and permissions in Linux.
-
-Apparatus Required:
-Ubuntu Linux Operating System
-
-Theory:
-In Linux, every file and directory has three types of permissions — read (r), write (w), and execute (x) — for three categories of users:
-	•	Owner
-	•	Group
-	•	Others
-
-The chmod, chown, and chgrp commands are used to modify file permissions and ownership.
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/10192a37-4004-4731-b829-fa582c1163e5" />
-------------------------------------------------------------------------------------------------------------------------------------------------
-experiment 6 : File Viewing and Concatenation Commands
-
-Aim:
-To use cat, more, and less commands to view, create, and manage text files in Linux.
-
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/afe063ca-bbed-4caf-b80f-bac1d39fb80b" />
-<img width="1470" height="956" alt="Screenshot 2025-10-31 at 11 30 23 AM" src="https://github.com/user-attachments/assets/889c83c7-ed67-4e84-b2b3-699c63639dba" />
-================================================================================================================================================
-
-Experiment 7 — Searching & Filtering Text (step-by-step)
-
-Aim: Learn to locate files and filter text using find, grep, pipelines, sort, uniq, awk and sed.
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7518139d-e605-47ee-8404-ebe58a00d551" />
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/4bacc7fe-d2fd-4b31-a1c0-d8bed8cfdacb" />
-Experiment 8: Process Management and Job Control
-
-Aim:
-To study and perform process management and job control commands in Linux.
-Commands Used:
-1. pstree | head
-2. ps aux --sort=-%cpu | head -n 12 > exp8_ps_top12.txt
-3. cat exp8_ps_top12.txt
-4. sleep 300 &
-5. jobs
-6. fg %1
-7. nohup bash -c 'while true; do date >> /tmp/exp8_date.log; sleep 60; done' > /tmp/exp8_nohup.out
-2>&1 &
-8. ps aux | grep nohup (optional)
-9. cat /tmp/exp8_date.log (optional)
-Description:
-1. The 'pstree' command displays running processes in a tree format, showing parent-child
-relationships.
-2. The 'ps aux' command lists all active processes with detailed information. Sorting by CPU usage
-helps identify high CPU consumers.
-3. Redirecting output to a text file saves the process list for later analysis.
-4. The 'sleep 300 &' command starts a background job that sleeps for 5 minutes.
-5. The 'jobs' command lists all background jobs in the current terminal session.
-6. The 'fg %1' command brings a background job to the foreground.
-7. The 'nohup' command allows a process to continue running even after logging out.
-Conclusion:
-In this experiment, we successfully explored Linux process management and job control commands.
-We learned to view, manage, and control processes in both foreground and background modes, and
-to keep processes running after logout using the nohup command.
-<img width="1470" height="956" alt="Screenshot 2025-11-05 at 11 14 18 PM" src="https://github.com/user-attachments/assets/7d262029-cf25-4929-828a-10532af99b36" />
-<img width="1470" height="956" alt="Screenshot 2025-11-05 at 11 19 32 PM" src="https://github.com/user-attachments/assets/1d7ee0d6-2c51-4c95-8dfd-df231f3073cb" />
+ <img width="1470" height="956" alt="Screenshot 2025-11-15 at 11 59 55 AM" src="https://github.com/user-attachments/assets/98a575c3-2741-46cc-9403-42aec3912ae3" />
+ <img width="1470" height="956" alt="Screenshot 2025-11-15 at 12 25 07 PM" src="https://github.com/user-attachments/assets/d2a3ced1-0de1-4383-aa23-25b88aeb44ee" />
 
