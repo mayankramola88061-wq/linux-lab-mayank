@@ -114,8 +114,10 @@ Output:
 
 **Final Output**:
 
+Final Output:
+
 <p align="center">
-  <img src="img/PHOTO-2025-11-15-15-14-06.jpg" width="900" alt="Mail Output Screenshot">
+  <img src="img/PHOTO-2025-11-15-15-28-15.jpg" width="900" alt="Mail Output Screenshot">
 </p>
 
 **Result**:
