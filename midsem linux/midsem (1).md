@@ -87,7 +87,7 @@ fi
 
 Output:
 <p align="center">
-<img src="./img/PHOTO-2025-11-15-15-14-06.jpg" width="900">
+<img src="./img/image%201.jpg" width="900" alt="System Log Screenshot">
 </p>
 
 Output:
