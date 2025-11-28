@@ -109,13 +109,14 @@ crontab -e
 Output:
 
 <p align="center">
-<img src="img/Users/mayankchandramola/Documents/midsem linux/img/image 2 .jpg "width="900">
+  <img src="img/PHOTO-2025-11-15-15-14-06.jpg" width="900" alt="System Log Screenshot">
 </p>
+
 
 **Final Output**:
 
 <p align="center">
-<img src="img/Users/mayankchandramola/Documents/midsem linux/img/image 3.jpg" width="900">
+  <img src="img/PHOTO-2025-11-15-15-30-34.jpg" width="900" alt="Mail Output Screenshot">
 </p>
 
 
