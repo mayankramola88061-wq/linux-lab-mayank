@@ -88,7 +88,7 @@ fi
 Output:
 
 <p align="center">
-<img src="img/Users/mayankchandramola/Documents/midsem linux/img/image 1 .jpg" width="900">
+  <img src="img/PHOTO-2025-11-15-15-14-06.jpg" width="900" alt="System Log Screenshot">
 </p>
 
 #### Exercise 2: Scheduling the Script
