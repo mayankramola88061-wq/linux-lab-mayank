@@ -108,17 +108,15 @@ crontab -e
 
 Output:
 
-<p align="center">
-  <img src="img/PHOTO-2025-11-15-15-14-06.jpg" width="900" alt="System Log Screenshot">
-</p>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/efb934e4-d5cd-4ccf-8083-ab59a717c65c" />
+
 
 
 **Final Output**:
 
 <p align="center">
-  <img src="img/PHOTO-2025-11-15-15-30-34.jpg" width="900" alt="Mail Output Screenshot">
+  <img src="img/PHOTO-2025-11-15-15-28-15.jpg" width="900" alt="Mail Output Screenshot">
 </p>
-
 
 
 **Result**:
