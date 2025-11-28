@@ -86,10 +86,15 @@ fi
 ```
 
 Output:
-
 <p align="center">
   <img src="img/PHOTO-2025-11-15-15-14-06.jpg" width="900" alt="System Log Screenshot">
 </p>
+
+Output:
+
+<p align="center">
+  <img src="img/PHOTO-2025-11-15-15-14-06.jpg" width="900" alt="System Log Screenshot">
+</p> 
 
 #### Exercise 2: Scheduling the Script
 
