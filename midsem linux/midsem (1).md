@@ -31,7 +31,7 @@ This experiment involves:
 
 Write a shell script that logs system info, archives old logs, and emails the daily log.
 
-* Identifies the current user./Users/mayankchandramola/Documents/midsem linux
+* Identifies the current user using `whoami`
 * Creates a directory for storing logs.
 * Saves daily logs with timestamps.
 * Archives logs older than 7 days.
